@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://paul-bd.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -31,7 +31,7 @@ navbar-links:
     - Dynamic Time Warping and FET: "http://deanattali.com/beautiful-jekyll/"
     - 3D Deep convolutional neural Network and automatic detection  / segmentation of FET: "http://www.markdowntutorial.com/"
     - PET/MRI Attenuation correction: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Tumoral Spreading as measured with 18F-FDG PET/CT
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -75,15 +75,15 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
+#  email: "someone@example.com"
+#  facebook: daattali
   github: paul-bd
-  twitter: daattali
+  twitter: paulbd89
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: paul-blanc-durand-08979847
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "8562879/paulbd"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -96,7 +96,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
   linkedin: true
 
