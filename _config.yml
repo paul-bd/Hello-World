@@ -23,11 +23,14 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  About Me: 
+    - Resume : "aboutme"
+    - list of Publications
+  Artwork: "artwork"
+  Open Source Projects:
+    - Dynamic Time Warping and FET: "http://deanattali.com/beautiful-jekyll/"
+    - 3D Deep convolutional neural Network and automatic detection  / segmentation of FET: "http://www.markdowntutorial.com/"
+    - PET/MRI Attenuation correction: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
