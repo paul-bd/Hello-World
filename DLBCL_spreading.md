@@ -4,5 +4,9 @@ subtitle: Spread
 ---
 #MIP
 
-![Test1](img/Gif-2018-25-05-00-25-58.gif) ![Test3](img/Gif-2018-50-05-08-50-39.gif)
+![Img1](img/mips/img1.gif) ![Mask1](img/mips/mask1.gif) 
+ 
+![Img1](img/mips/img2.gif) ![Mask1](img/mips/mask2.gif) 
+
+
 
