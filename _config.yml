@@ -30,7 +30,7 @@ navbar-links:
     - PET/MRI Attenuation correction: "DL_MRAC"
     - Tumoral Spread : "DLBCL_spreading"
   Artwork: 
-    - Neural Style : "neuralstyle"
+    - Neural Style : "artwork"
   About : 
     - Me : "aboutme"
     - Publications : "publications"
