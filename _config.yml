@@ -25,6 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
 
   Open Source Projects:
+    - Radiology Journals Acceptation: "radiologyjournals"
     - Dynamic Time Warping and 18FET: "dtw_FET"
     - 3D Deep convolutional neural Network and automatic detection of 18FET: "Unet_FET"
     - PET/MRI Attenuation correction: "DL_MRAC"
