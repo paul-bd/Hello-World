@@ -9,7 +9,7 @@ subtitle: Here you'll find stuff I made for fun #Arty#Moody#1000$piece
 
 # Finger Rx and Michel Angelo
 
-![Creation](img/neural_style/rx_ma .jpg)
+![Creation](img/neural_style/rx_ma.jpg)
 
 # Brain FDG PET and Lee Ufan
 
