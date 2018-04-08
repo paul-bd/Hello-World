@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A short About story
 ---
 
-My name is Paul BD. I have the following qualities:
+### Me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Paul and as a hobby I love programming. Therefore and as I got so much from the internet, the little things i made up with that I think may someday be usefull for anyone are shared on this blog!
 
-What else do you need?
 
-### my history
+### My work
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I will be happy to answer **all** your questions at the following mail paulblancdurand # **@**# gmail **.com**
+
+### My Passions
+
