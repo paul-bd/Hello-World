@@ -1,12 +1,19 @@
 ---
-title: Detection
+title: Detection and Segmentation in a large cohort of DLBCL
 subtitle: 18F-FDG
 ---
-#MIP
+
+## Objective 
+Aim of the present study is to evaluate the performance of a deep convolutional neural networks to detect and segment PET abnormalities in a large population of DLBCL.
+
 ## Material & Methods
 Dataset was splitted into a training (373 patients), a validation (92 patients) and a testing (93 patients) cohort
-A U-net was trained with a custom loss function taking into accound the spectral hierarchy of PET images
+A U-net was trained with a custom loss function taking into accound the spectral hierarchy of PET images.
 
+Main metrics were 
+ - For the detection task : Sensitivity, PPV at the lesion levels. Sensitivity, Specificity, PPV, NPV at the voxel level
+ - For the segmentation task : the Dice similarity coefficient (DSC)
+ 
 ## Results per patient
 BLUE BOUNDING BOXES are False Negatives 
 RED BOUNDING BOXES are False Positives
@@ -20,13 +27,16 @@ RED BOUNDING BOXES are False Positives
 ![Img2](img/detection/11011101061010.jpg)
 
 ## Results in the validation cohort of 92 patients
-Detection / Segmentation
-![Img1](img/detection/results/Results_m.jpg)
+Main results at the lesion / Voxel level
+
+![Img3](img/detection/results/Results_m.jpg)
 
 
 Distribution of DSC 
-![Img1](img/detection/results/DSC_distrib_m.jpg)
+
+![Img4](img/detection/results/DSC_distrib_m.jpg)
 
 
-Distribution of MTV 
-![Img1](img/detection/results/modified_predictionsMTV_scatter.jpg)
+Scatter plot of MTV predicted / MTV ground truth
+
+![Img5](img/detection/results/modified_predictionsMTV_scatter.jpg)
