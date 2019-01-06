@@ -26,8 +26,8 @@ navbar-links:
 
   Open Source Projects:
     - Radiology Journals Acceptation: "radiologyjournals"
-    - Automatic TEP anomaly Detection: "dtw_FET"
-    - Dynamic Time Warping and 18FET: "PET_detection"
+    - Automatic TEP anomaly Detection: "PET_detection"
+    - Dynamic Time Warping and 18FET: "DTW_fet"
     - 3D Deep convolutional neural Network and automatic detection of 18FET: "Unet_FET"
     - PET/MRI Attenuation correction: "DL_MRAC"
     - Tumoral Spread : "DLBCL_spreading"
