@@ -42,4 +42,4 @@ Scatter plot of MTV predicted / MTV ground truth
 ![Img5](img/detection/results/modified_predictionsMTV_scatter.jpg)
 
 ## Source Code : 
- - [Analysis pf predictions](https://github.com/paul-bd/check_preds.ipynb)
+ - [Analysis of predictions](https://github.com/paul-bd/paul-bd.github.io/check_preds.ipynb)
