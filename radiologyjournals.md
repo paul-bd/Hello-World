@@ -7,4 +7,4 @@ Time between manuscript reception to acceptance/publication for journals in nucl
 ![Img1](img/radiology_journal.png)
 
 ## Source Code : 
- - [Analysis of predictions](https://github.com/paul-bd/Radiology_Pubmed/Pubmed.ipynb)
+ - [Pubmed Scrapping and Code](https://github.com/paul-bd/Radiology_Pubmed/blob/master/Pubmed.ipynb)
