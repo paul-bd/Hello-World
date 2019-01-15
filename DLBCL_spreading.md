@@ -10,13 +10,14 @@ subtitle: Spread
 
 
 ### Dispersion example
-![Img1](img/dispersion/disp_11011101021001.jpg)
-![Img1](img/dispersion/disp_11011101021004 .jpg)
-![Img1](img/dispersion/disp_11011101021008.jpg)
-![Img1](img/dispersion/disp_11011101021009.jpg)
-![Img1](img/dispersion/disp_11011101031002.jpg)
-![Img1](img/dispersion/disp_11011101331004.jpg)
-![Img1](img/dispersion/disp_11011103311004.jpg)
+
+![Img3](img/dispersion/disp_11011101021001.jpg)
+![Img4](img/dispersion/disp_11011101021004.jpg)
+![Img5](img/dispersion/disp_11011101021008.jpg)
+![Img6](img/dispersion/disp_11011101021009.jpg)
+![Img7](img/dispersion/disp_11011101031002.jpg)
+![Img8](img/dispersion/disp_11011101331004.jpg)
+![Img9](img/dispersion/disp_11011103311004.jpg)
 
 
 
