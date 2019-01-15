@@ -7,6 +7,8 @@ subtitle: 18F-FDG
 Aim of the present study is to evaluate the performance of a deep convolutional neural networks to detect and segment PET abnormalities in a large population of DLBCL.
 
 ## Material & Methods
+[Proprocessing](https://github.com/paul-bd/GAINED_repo/blob/master/GAINED_load_and_resample.ipynb) to a 128x128x256 tensor of 4mm3 voxel
+ 
 Dataset was splitted into a training (373 patients), a validation (92 patients) and a testing (93 patients) cohort
 A U-net was trained with a custom loss function taking into accound the spectral hierarchy of PET images.
 
