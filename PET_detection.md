@@ -28,7 +28,7 @@ RED BOUNDING BOXES are False Positives
 ![Img2](img/detection/11011101051026.jpg)
 ![Img2](img/detection/11011101061010.jpg)
 
-## Results in the validation cohort of 92 patients
+## Results in the validation cohort of 90 patients
 Main results at the lesion / Voxel level
 
 ![Img3](img/detection/results/Results_m.jpg)
