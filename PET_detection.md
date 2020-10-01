@@ -11,37 +11,14 @@ Aim of the present study is to evaluate the performance of a deep convolutional 
  
 Dataset included two multi centric trials from the LYSA. Data is not publicly available.
 Models were trained using the nnunet library and can be found at this [link](https://github.com/paul-bd/petct_segmentation) : 
-Main metrics were 
- - For the detection task : Sensitivity, PPV at the lesion levels. Sensitivity, Specificity, PPV, NPV at the voxel level
- - For the segmentation task : the Dice similarity coefficient (DSC)
- 
+
 ## Results per patient
 BLUE BOUNDING BOXES are False Negatives 
 RED BOUNDING BOXES are False Positives
 ![Img1](img/detection/11011101021002.jpg)
 ![Img1](img/detection/11011101021008.jpg)
 ![Img2](img/detection/11011101021014.jpg)
-![Img2](img/detection/11011101031003.jpg)
-![Img2](img/detection/11011101051009.jpg)
-![Img2](img/detection/11011101051015.jpg)
-![Img2](img/detection/11011101051026.jpg)
-![Img2](img/detection/11011101061010.jpg)
-
-## Results in the validation cohort of 94 patients
-Main results at the lesion / Voxel level
-
-![Img3](img/detection/results/Results_m.jpg)
-
-
-Distribution of DSC 
-
-![Img4](img/detection/results/DSC_distrib_m.jpg)
-
-
-Scatter plot of MTV predicted / MTV ground truth
-
-![Img5](img/detection/results/modified_predictionsMTV_scatter.jpg)
 
 ## Source Code : 
- - models
- - reproduce figures
+ - [Models](https://github.com/paul-bd/petct_segmentation/models)
+ - [Figures](https://github.com/paul-bd/petct_segmentation/figure)
